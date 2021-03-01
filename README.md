@@ -1,2 +1,2 @@
 # Matlab-Application-Of-Differential-Equation
-Solve for a 2*2 matrix
+1. Solve for a 2*2 matrix
